@@ -21,3 +21,10 @@ Design decisions:
 
 *  Microcontroller: ATMega 328p, the same as Arduino Uno
 *  Radio module: nrf24L01+
+
+Details:
+--------
+
+For connecting the modules see [connections](conections.md)
+For an indication of the price of the components see [bill of materials](materials.md)
+
