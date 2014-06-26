@@ -25,6 +25,6 @@ Design decisions:
 Details:
 --------
 
-For connecting the modules see [connections](conections.md)
+For connecting the modules see [connections](connections.md)
 For an indication of the price of the components see [bill of materials](materials.md)
 
