@@ -26,6 +26,7 @@ Details:
 --------
 
 In this repo yuo can find:
+
 1.  a [Fritzing](http://fritzing.org/home/) [schema of the board](https://github.com/dariosalvi78/pIoT-HW/blob/master/pIoT.fzz)
 2.  the [detailed documentation](https://github.com/dariosalvi78/pIoT-HW/wiki) about the board design
 3.  images about prototypes
