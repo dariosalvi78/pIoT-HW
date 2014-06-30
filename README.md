@@ -25,6 +25,8 @@ Design decisions:
 Details:
 --------
 
-For connecting the modules see [connections](conections.md)
-For an indication of the price of the components see [bill of materials](materials.md)
+In this repo yuo can find:
+1.  a [Fritzing](http://fritzing.org/home/) [schema of the board](https://github.com/dariosalvi78/pIoT-HW/blob/master/pIoT.fzz)
+2.  the [detailed documentation](https://github.com/dariosalvi78/pIoT-HW/wiki) about the board design
+3.  images about prototypes
 
