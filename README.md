@@ -1,5 +1,5 @@
-pIoT-HW
-=======
+<img src="http://openclipart.org/people/Scout/Chick.svg" width="10%" height="10%"/> pIoT-HW
+===========================================================================================
 
 pIoT is an open source pico/personal framework for the Internet of Things (IoT).
 It includes a hardware design for low-cost, low-power, Arduino compatible boards, a C++ library for programming the board and a simple server application that stores data and offers web visualization.
@@ -25,6 +25,12 @@ Design decisions:
 Details:
 --------
 
-For connecting the modules see [connections](connections.md)
+For connecting the modules see [connections](conections.md)
 For an indication of the price of the components see [bill of materials](materials.md)
+
+In this repo yuo can find:
+
+1.  a [Fritzing](http://fritzing.org/home/) [schema of the board](https://github.com/dariosalvi78/pIoT-HW/blob/master/pIoT.fzz)
+2.  the [detailed documentation](https://github.com/dariosalvi78/pIoT-HW/wiki) about the board design
+3.  images about prototypes
 
