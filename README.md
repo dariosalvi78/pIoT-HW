@@ -28,7 +28,7 @@ Details:
 In this repo you can find:
 
 1.  a [Fritzing](http://fritzing.org/home/) [schema of the board](https://github.com/dariosalvi78/pIoT-HW/blob/master/pIoT.fzz)
-2.  the [detailed documentation](https://github.com/dariosalvi78/pIoT-HW/wiki) about the board design
+2.  the [connections schema](https://github.com/dariosalvi78/pIoT-HW/blob/master/connections.md) about the board design
 3.  the [boards.txt](https://github.com/dariosalvi78/pIoT-HW/blob/master/boards.txt) file to be added in the hardware folder in the sketch folder of your Arduino IDE
 4.  [images](https://github.com/dariosalvi78/pIoT-HW/tree/master/pictures) about prototypes
 
